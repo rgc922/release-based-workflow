@@ -69,7 +69,7 @@ Before using a release based workflow for a larger release, let's create a tag a
 </details>
 
 <!--Step 2-->
-<details id=2 open>
+<details id=2>
 <summary><h2>Step 2: Add a new feature to the release branch</h2></summary>
 
 ### Release management
@@ -179,7 +179,7 @@ You can now [merge](https://docs.github.com/en/get-started/quickstart/github-glo
 </details>
 
 <!--Step 5-->
-<details id=5>
+<details id=5 open>
 <summary><h2>Step 5: Finalize the release</h2></summary>
 
 ### Finalizing releases
